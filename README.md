@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Esrakgun
+# 👋 Hi, I’m Esra Akgündoğdu 
 - Former math teacher who transitioned into software development.
 - 👀 I’m interested in analyze and interpret everything from a painting to a dish with an aesthetic mindset, always seeking the harmony in proportions.
 - 🌍 Passionate about 'aesthetics and creative exploration' across art, literature, architecture, and more.
