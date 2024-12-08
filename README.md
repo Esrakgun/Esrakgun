@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @Esrakgun:Former math teacher who transitioned into software development.
+# 👋 Hi, I’m @Esrakgun
+- Former math teacher who transitioned into software development.
 - 👀 I’m interested in analyze and interpret everything from a painting to a dish with an aesthetic mindset, always seeking the harmony in proportions.
 - 🌍 Passionate about 'aesthetics and creative exploration' across art, literature, architecture, and more.
 - 🍳 Aspiring chef who finds beauty in the balance of flavors and artistic plating,loves experimenting with new recipes.
 - 📚 Avid reader and frequent visitor to art exhibitions.
-- 🌱 I’m currently learning deep diving into Frontend development.🌟
+ 🌱 I’m currently learning deep diving into Frontend development.🌟
 - 📖 Enhancing my programming skills to become a creative and unconventional software engineer.
 - 💞️ I’m looking to collaborate on aesthetic-focused frontend projects that combine art and technology.🎨 
 - 🌐 Creative web applications that tell a story through design.
