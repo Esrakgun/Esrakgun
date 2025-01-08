@@ -9,7 +9,7 @@
 - 💞️ I’m looking to collaborate on aesthetic-focused frontend projects that combine art and technology.🎨 
 - 🌐 Creative web applications that tell a story through design.
 - ⚡ Fun fact: I believe art is everywhere on a plate, in a melody, or in a beautifully written line of code.Each project I undertake is a step toward creating something both functional and inspiring and the best ideas are born at the intersection of creativity, curiosity.. ✨
-- 📫 How to reach me ...
+- 📫 How to reach me akgundogduesr@gmail.com
 <!---
 Esrakgun/Esrakgun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
